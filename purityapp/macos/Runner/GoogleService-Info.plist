@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>394008708625-6qft6vkrdbo233lsgp00m4s1934nlvhv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.394008708625-6qft6vkrdbo233lsgp00m4s1934nlvhv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCyifCUZsba_QIalNIZz45h1sZSBC2Vhk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>394008708625</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.purityapp</string>
+	<key>PROJECT_ID</key>
+	<string>purity-c0f9a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>purity-c0f9a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:394008708625:ios:d9e7c02cb21169e0ae53b0</string>
+	<key>DATABASE_URL</key>
+	<string>https://purity-c0f9a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

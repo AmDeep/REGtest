@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "394008708625",
+    "firebase_url": "https://purity-c0f9a-default-rtdb.firebaseio.com",
+    "project_id": "purity-c0f9a",
+    "storage_bucket": "purity-c0f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394008708625:android:5fe8e455b3766427ae53b0",
+        "android_client_info": {
+          "package_name": "com.ariana.register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394008708625-023jai73rs4557o56hgepgrrmbnmjhv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSvyxG2G8D0M-Q29lc7lsV83uKRkuBMeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394008708625-023jai73rs4557o56hgepgrrmbnmjhv2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394008708625-6qft6vkrdbo233lsgp00m4s1934nlvhv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.purityapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394008708625:android:b4d949acf97e5d47ae53b0",
+        "android_client_info": {
+          "package_name": "com.example.purityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394008708625-023jai73rs4557o56hgepgrrmbnmjhv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSvyxG2G8D0M-Q29lc7lsV83uKRkuBMeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394008708625-023jai73rs4557o56hgepgrrmbnmjhv2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394008708625-6qft6vkrdbo233lsgp00m4s1934nlvhv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.purityapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
